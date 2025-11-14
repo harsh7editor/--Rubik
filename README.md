@@ -118,14 +118,6 @@ Default language is set to English.
 Available languages are:
 
 - English
-- Hungarian
-- Deutsch
-- French
-- Spanish
-- Dutch
-- 简体中文
-- 台灣繁體中文
-- Arabic (العربية)
 
 ### Calibrate mode
 
